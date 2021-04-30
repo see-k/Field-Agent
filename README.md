@@ -38,10 +38,10 @@ To launch server
 - launch the program --> java App
 
 #### Code Sequence Steps:
-[ ] Step 1
-[ ] Step 1
-[ ] Step 1
-[ ] Step 1
+- [ ] Step 1
+- [ ] Step 1
+- [ ] Step 1
+- [ ] Step 1
  ______________________________________________________________________
 
 ## Entity Relations Chart
