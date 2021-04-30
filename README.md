@@ -87,8 +87,14 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Delete
      - [ ] Validate
     
-- [ ] Step 4 Global Handling
-- [ ] Step 5
+- [ ] Step 4 Global exception Handling
+     - [ ] include conroller advice, CORS, and profile
+     - [ ] Illegal arguement exception and response
+     - [ ] Nullpointer exception and response
+     - [ ] DataAccess exception and response
+- [ ] Step 5 HTTP Client
+    - Launch spring on terminal
+    - Send requests to test added contents in API
  ______________________________________________________________________
 
 ## Entity Relations Chart
