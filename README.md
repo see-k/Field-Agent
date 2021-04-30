@@ -36,6 +36,12 @@ Use Visual Studio code to send HTTP requests using the file below
 To launch server
 - compile the program -->javac App.java
 - launch the program --> java App
+
+#### Code Sequence Steps:
+[ ] Step 1
+[ ] Step 1
+[ ] Step 1
+[ ] Step 1
  ______________________________________________________________________
 
 ## Entity Relations Chart
