@@ -96,7 +96,7 @@ Along with contents already available in the field Agent Project folder, the fol
     
     
  ```diff
- - currentlt under research: Step 4 and 5
+ - currently under research: Step 4 and 5
  ```
 - [ ] Step 4: Global exception Handling
      - [ ] include controller advice, CORS, and profile
