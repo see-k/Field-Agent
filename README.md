@@ -39,7 +39,11 @@ To launch server
 
 #### Code Sequence Steps:
 Along with contents already available in the field Agent Project folder, the following solutions will be implemented as well
-- [ ] Step 1 Security Clearance
+- [ ] Set up database
+     - [ ] Update application.properties
+     - [ ] handshake with MySql running on docker container
+      
+- [ ] Step 2 Security Clearance
 
       Domain Layer
      - [ ] FindAll 
@@ -49,6 +53,11 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Delete
      - [ ] Validate
 
+      Domain layer Tests
+     - [ ] Set up spring-boot- starter-test: Mockito 
+     - [ ] Test all: Domain layer methods for postive cases
+     - [ ] Test all: Domain layer methods for negative cases
+
       Jdbc Template Repository
      - [ ] FindAll 
      - [X] FindById
@@ -56,9 +65,30 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Update
      - [ ] Delete
      - [ ] Validate
-- [ ] Step 2 Aliases
-- [ ] Step 3 Global Handling
-- [ ] Step 4
+
+      Jdbc Template layer Tests
+     - [ ] Set up spring-boot- starter-test: Mockito 
+     - [ ] Test all: Domain layer methods for postive cases
+     - [ ] Test all: Domain layer methods for negative cases
+     
+- [ ] Step 3 Aliases
+
+       Domain Layer
+     - [ ] FindById
+     - [ ] add
+     - [ ] Update
+     - [ ] Delete
+     - [ ] Validate
+
+      Jdbc Template Repository
+     - [ ] FindById
+     - [ ] add
+     - [ ] Update
+     - [ ] Delete
+     - [ ] Validate
+    
+- [ ] Step 4 Global Handling
+- [ ] Step 5
  ______________________________________________________________________
 
 ## Entity Relations Chart
