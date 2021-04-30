@@ -16,7 +16,7 @@ _______________________________________________________
 [Field Agent](https://en.wikipedia.org/wiki/Field_agent)  
 ```diff
 + A field agent is an agent who works in the field as opposed to one who operates at the office or headquarters. 
-+ Field agents can work alone or in a group but usually has a case officer who is in charge.
++ Field agents can work alone or in a group but they typically have a case officer who is in charge.
 + Field agents can be undercover, and travel using fake passports that may be under the name of a front organization or shell corporation.
 ```
 ___________________________________________________
