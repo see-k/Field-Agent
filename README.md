@@ -3,7 +3,11 @@ ____________________________________
 ### Dev10 Assessment: M07
 #### by Chike Okonta
 #### 04/30/2021
-💻 Designed using MySQL Workbench 8.0 CE & Intellij IDEA
+
+Designed using 
+💾 MySQL Workbench 8.0 CE
+💻 Intellij IDEA
+🖥️ Visual Studio Code
 
 _______________________________________________________
 ![k1eusL](https://user-images.githubusercontent.com/40407778/116723406-1f9ccd80-a9a5-11eb-9ed4-e6155ddc68c2.png)
