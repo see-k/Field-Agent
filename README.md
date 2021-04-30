@@ -140,9 +140,9 @@ ____________________________________________________________________
 |4.30.2021| Step 4: Create Global exception handling| 0.5              | _ | _ | Not Started
 |4.30.2021| Step 5: Create HTTP Client | 0.5              | _ | _ | Not Started
 |4.30.2021| Step 2: Security Clearance Domain layer implementation | 2              | _  | _ | Not Started
-|4.30.2021| Step 2: Security Clearance Domain layer Tests | 2              | _  | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Domain layer Tests | 1              | _  | _ | Not Started
 |4.30.2021| Step 2: Security Clearance Jdbc template repository implementation | 2             | _  | _ | Not Started
-|4.30.2021| Step 2: Security Clearance Jdbc template repository tests | 2     | _  | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Jdbc template repository tests | 1     | _  | _ | Not Started
 |5.01.2021| Step 3: Aliases Domain layer implementation | 2              | _  | _ | Not Started
 |5.01.2021| Step 3: Aliases Domain layer Tests | 2              | _  | _ | Not Started
 |5.01.2021| Step 3: Aliases Jdbc template repository implementation | 2             | _  | _ | Not Started
