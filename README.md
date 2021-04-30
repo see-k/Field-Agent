@@ -68,7 +68,6 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] add
      - [ ] Update
      - [ ] Delete
-     - [ ] Validate
 
       Jdbc Template layer Tests
      - [ ] Set up spring-boot- starter-test: Mockito 
@@ -98,7 +97,6 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] add
      - [ ] Update
      - [ ] Delete
-     - [ ] Validate
 
       Jdbc Template layer Tests
      - [ ] Set up spring-boot- starter-test: Mockito 
