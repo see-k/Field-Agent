@@ -83,6 +83,11 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Update
      - [ ] Delete
      - [ ] Validate
+     
+      Domain layer Tests
+     - [ ] Set up spring-boot- starter-test: Mockito 
+     - [ ] Test all: Domain layer methods for postive cases
+     - [ ] Test all: Domain layer methods for negative cases
 
       Models
      - [ ] Aliases
@@ -94,6 +99,11 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Update
      - [ ] Delete
      - [ ] Validate
+
+      Jdbc Template layer Tests
+     - [ ] Set up spring-boot- starter-test: Mockito 
+     - [ ] Test all: Domain layer methods for postive cases
+     - [ ] Test all: Domain layer methods for negative cases
     
     
  ```diff
