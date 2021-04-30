@@ -23,11 +23,8 @@ ___________________________________________________
 ___________________________________________________
 ### Instructions
 Use MySQL workbench 8.0 CE to run queries on the following files
-- rcttc-schema.sql: re-runnable DDL
-- rcttc-data.sql: data populating DML
-- rcttc-queries.sql: queries
-
-  
+- field-agent-schema-prod.sql
+- field-agent-schema-test.sql
  ______________________________________________________________________
 ## Example
 ```diff
@@ -44,7 +41,7 @@ ____________________________________________________________________
 ```diff
 + Use link below to go to project board
 ```
-[Link to Public Trello Board: MO5 Mastery Project](https://trello.com/b/PTnqEPNP/m06-tiny-theaters)
+[Link to Public Trello Board: MO7 Mastery Project](https://trello.com/b/JA7GwaAX/m07)
 
 ## Time Tracker
 
