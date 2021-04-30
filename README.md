@@ -36,7 +36,7 @@ Use Visual Studio code to send HTTP requests using the file below
 To launch server
 - compile the program -->javac App.java
 - launch the program --> java App
-
+_______________________________________________________
 #### Code Sequence Steps:
 Along with contents already available in the field Agent Project folder, the following solutions will be implemented as well
 - [ ] Step 1: Set up database
