@@ -38,10 +38,26 @@ To launch server
 - launch the program --> java App
 
 #### Code Sequence Steps:
-- [ ] Step 1
-- [ ] Step 1
-- [ ] Step 1
-- [ ] Step 1
+Along with contents already available in the field Agent Project folder, the following solutions will be implemented as well
+- [ ] Step 1 Security Clearance\
+         Domain Layer
+       - [ ] FindAll 
+       - [ ] FindById
+       - [ ] add
+       - [ ] Update
+       - [ ] Delete
+       - [ ] Validate
+
+           Jdbc Template Repository
+       - [ ] FindAll 
+       - [X] FindById
+       - [ ] add
+       - [ ] Update
+       - [ ] Delete
+       - [ ] Validate
+- [ ] Step 2 Aliases
+- [ ] Step 3 Global Handling
+- [ ] Step 4
  ______________________________________________________________________
 
 ## Entity Relations Chart
