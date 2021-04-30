@@ -49,7 +49,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Delete
      - [ ] Validate
 
-     Jdbc Template Repository
+      Jdbc Template Repository
      - [ ] FindAll 
      - [X] FindById
      - [ ] add
