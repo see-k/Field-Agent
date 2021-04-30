@@ -95,7 +95,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Validate
     
 - [ ] Step 4: Global exception Handling
-     - [ ] include conroller advice, CORS, and profile
+     - [ ] include controller advice, CORS, and profile
      - [ ] Illegal arguement exception and response
      - [ ] Nullpointer exception and response
      - [ ] DataAccess exception and response
