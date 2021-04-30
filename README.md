@@ -26,6 +26,13 @@ Use MySQL workbench 8.0 CE to run queries on the following files
 - field-agent-schema-prod.sql
 - field-agent-schema-test.sql
  ______________________________________________________________________
+
+## Entity Relations Chart
+ ```diff
+ + Click to view UML chart in full page
+ ```
+![mpk](https://user-images.githubusercontent.com/40407778/116732632-b622bc00-a9b0-11eb-99bc-1383eec13f76.JPG)
+______________________________________________________________________
 ## Example of Sequence Chart
 ```diff
 - Click image below to expand
@@ -56,14 +63,6 @@ ____________________________________________________________________
 |4.25.2021| Bugs and Errors: find and fix #1 | 1  | _  | _ | Not Started
 
 Table 1
-
-   ______________________________________________________________________
-## Entity Relations Chart
- ```diff
- + Click to view UML chart in full page
- ```
-![mpk](https://user-images.githubusercontent.com/40407778/116732632-b622bc00-a9b0-11eb-99bc-1383eec13f76.JPG)
-
  ________________________________________________________
 
 ### Glossary
