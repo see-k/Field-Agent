@@ -58,6 +58,9 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Test all: Domain layer methods for postive cases
      - [ ] Test all: Domain layer methods for negative cases
 
+      Models
+     - [X] SecurityClearance
+
       Jdbc Template Repository
      - [ ] FindAll 
      - [X] FindById
@@ -80,7 +83,11 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Delete
      - [ ] Validate
 
+      Models
+     - [X] Aliases
+
       Jdbc Template Repository
+     - [ ] AliasesMapper (Class in Mapper package)
      - [ ] FindById
      - [ ] add
      - [ ] Update
@@ -137,45 +144,27 @@ ____________________________________________________________________
 |5.01.2021| Step 3: Aliases Jdbc template repository tests | 2     | _  | _ | Not Started
 |5.01.2021| Step 4: Update Global exception handling| 0.5              | _ | _ | Not Started
 |5.01.2021| Step 5: Update HTTP Client | 0.5              | _ | _ | Not Started
-|5.02.2021| Stretch Goal #1 | 2       | _  | _ | Not Started
-|5.02.2021| Stretch Goal #2 | 2      | _  | _ | Not Started
+|5.02.2021| Stretch Goal #1 | 4       | _  | _ | Not Started
+|5.02.2021| Stretch Goal #2 | 4      | _  | _ | Not Started
 |5.02.2021| Bugs and Errors: find and fix #1 | 1  | _  | _ | Not Started
 
 Table 1
  ________________________________________________________
 
-### Glossary
-The Performances - The 2021 schedule:
-- High School Musical
-- Hair
-- Dance, Dance Vertical: dance performed on a vertical surface using climbing equipment.
-- Caddyshack
-- Burr: the real dirt on Alexander Hamilton
-- Send in the Clowns
-- The Dress
-- Tell Me What To Think
-- The Sky Lit Up: cosmic horror
-- Ocean: the life of Frank Ocean as performed by Frank Ocean
-- Stop. Just Stop.
-- Wen
+### Notes
+Stretch goals
+ - Implement full HTTP CRUD for mission.
+ - Implement full HTTP CRUD for the mission/agent many-to-many relationship.
 
 #### Data Information
   
   |DATA| TYPE
   | :---:|:---:
-  |`Customer Last Name`| `varchar`
-  | `Customer First Name` |`varchar`
-  | `Customer Email` |`varchar`
-  | `Customer Phone` |`varchar`
-  | `Customer Address` |`varchar`
-  | `Seat` |`varchar`
-  | `Show` |`varchar`
-  | `Ticket price` |`decimal`
-  | `Date` |`date`
-  | `Theater` |`varchar`
-  | `Theater address` |`varchar`
-  | `Theater phone` |`varchar`
-  | `Ticket email` |`varchar`
+  |`Security clearance ID`| `int`
+  | `name` |`varchar`
+  | `alias ID` |`int`
+  | `persona` |`varchar`
+  | `agent ID ` |`Int`
 
 Table 2
 
