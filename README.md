@@ -39,11 +39,11 @@ To launch server
 
 #### Code Sequence Steps:
 Along with contents already available in the field Agent Project folder, the following solutions will be implemented as well
-- [ ] Set up database
+- [ ] Step 1: Set up database
      - [ ] Update application.properties
      - [ ] handshake with MySql running on docker container
       
-- [ ] Step 2 Security Clearance
+- [ ] Step 2: Security Clearance
 
       Domain Layer
      - [ ] FindAll 
@@ -71,7 +71,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Test all: Domain layer methods for postive cases
      - [ ] Test all: Domain layer methods for negative cases
      
-- [ ] Step 3 Aliases
+- [ ] Step 3: Aliases
 
        Domain Layer
      - [ ] FindById
@@ -87,12 +87,12 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Delete
      - [ ] Validate
     
-- [ ] Step 4 Global exception Handling
+- [ ] Step 4: Global exception Handling
      - [ ] include conroller advice, CORS, and profile
      - [ ] Illegal arguement exception and response
      - [ ] Nullpointer exception and response
      - [ ] DataAccess exception and response
-- [ ] Step 5 HTTP Client
+- [ ] Step 5: HTTP Client
     - Launch spring on terminal
     - Send requests to test added contents in API
  ______________________________________________________________________
@@ -122,15 +122,24 @@ ____________________________________________________________________
 
 |DATE |TASK ID|ESTIMATED TIME (HRS) | START TIME (HRS:MINS)|END TIME (HRS:MINS)| STATUS
 |:---:| :---: | :---:               | :---:                |:---:              |:---:
-|4.23.2021| Step 1: DDL - Research on denormalized data| 2              | _ | _ | In progress
-|4.23.2021| Step 1: DDL - Planning and diagrams  | 4              | 12:00 PM | 4:00 PM | Completed
-|4.24.2021| Step 2: DML - Insert | 2              | _  | _ | Not Started
-|4.24.2021| Step 2: DML - Update | 2                 | _  | _ | Not Started
-|4.24.2021| Step 2: DML - Delete | 2      | _  | _ | Not Started
-|4.24.2021| Step 3: DQL- Complete all queries | 3          | _  | _ | Not Started
-|4.25.2021| Stretch Goal #1 | 2       | _  | _ | Not Started
-|4.25.2021| Stretch Goal #2 | 2      | _  | _ | Not Started
-|4.25.2021| Bugs and Errors: find and fix #1 | 1  | _  | _ | Not Started
+|4.30.2021| Step 1: Research| 2              | 5:00 PM | _ | In progress
+|4.30.2021| Step 1: Planning and diagrams  | 4              | 12:00 PM | 4:00 PM | Completed
+|4.30.2021| Step 1: Set up| 1              | _ | _ | Not Started
+|4.30.2021| Step 4: Create Global exception handling| 0.5              | _ | _ | Not Started
+|4.30.2021| Step 5: Create HTTP Client | 0.5              | _ | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Domain layer implementation | 2              | _  | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Domain layer Tests | 2              | _  | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Jdbc template repository implementation | 2             | _  | _ | Not Started
+|4.30.2021| Step 2: Security Clearance Jdbc template repository tests | 2     | _  | _ | Not Started
+|5.01.2021| Step 3: Aliases Domain layer implementation | 2              | _  | _ | Not Started
+|5.01.2021| Step 3: Aliases Domain layer Tests | 2              | _  | _ | Not Started
+|5.01.2021| Step 3: Aliases Jdbc template repository implementation | 2             | _  | _ | Not Started
+|5.01.2021| Step 3: Aliases Jdbc template repository tests | 2     | _  | _ | Not Started
+|5.01.2021| Step 4: Update Global exception handling| 0.5              | _ | _ | Not Started
+|5.01.2021| Step 5: Update HTTP Client | 0.5              | _ | _ | Not Started
+|5.02.2021| Stretch Goal #1 | 2       | _  | _ | Not Started
+|5.02.2021| Stretch Goal #2 | 2      | _  | _ | Not Started
+|5.02.2021| Bugs and Errors: find and fix #1 | 1  | _  | _ | Not Started
 
 Table 1
  ________________________________________________________
