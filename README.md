@@ -29,6 +29,13 @@ ___________________________________________________
 Use MySQL workbench 8.0 CE to run queries on the following files
 - field-agent-schema-prod.sql
 - field-agent-schema-test.sql
+
+Use Visual Studio code to send HTTP requests using the file below
+- demoScript.http
+
+To launch server
+- compile the program -->javac App.java
+- launch the program --> java App
  ______________________________________________________________________
 
 ## Entity Relations Chart
