@@ -1,10 +1,10 @@
-# Field-Agent
 ____________________________________
-# Ramsey County Tiny Theater Company (RCTTC)
-### Dev10 Assessment: M06
+# Field-Agent
+### Dev10 Assessment: M07
 #### by Chike Okonta
-#### 04/26/2021
+#### 04/30/2021
 💻 Designed using MySQL Workbench 8.0 CE
+💻 Designed using Intellij Idea
 
 _______________________________________________________
 ![iQFqp2Is](https://user-images.githubusercontent.com/40407778/115913154-d8a75900-a435-11eb-979a-b5a1cc493ec5.jpeg)
