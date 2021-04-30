@@ -26,13 +26,11 @@ Use MySQL workbench 8.0 CE to run queries on the following files
 - field-agent-schema-prod.sql
 - field-agent-schema-test.sql
  ______________________________________________________________________
-## Example
+## Example of Sequence Chart
 ```diff
 - Click image below to expand
 ```
-![sample](https://user-images.githubusercontent.com/40407778/115920675-24f79680-a440-11eb-9779-ba72e08953b2.JPG)
-
-
+![mn b n](https://user-images.githubusercontent.com/40407778/116732898-faae5780-a9b0-11eb-9e1e-f2493a3e2ebb.JPG)
 
 Figure 3
 ____________________________________________________________________
