@@ -84,7 +84,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Validate
 
       Models
-     - [X] Aliases
+     - [ ] Aliases
 
       Jdbc Template Repository
      - [ ] AliasesMapper (Class in Mapper package)
@@ -131,7 +131,8 @@ ____________________________________________________________________
 |:---:| :---: | :---:               | :---:                |:---:              |:---:
 |4.30.2021| Step 1: Research| 2              | 5:00 PM | _ | In progress
 |4.30.2021| Step 1: Planning and diagrams  | 4              | 12:00 PM | 4:00 PM | Completed
-|4.30.2021| Step 1: Set up| 1              | _ | _ | Not Started
+|4.30.2021| Step 1: Set up| 0.5              | _ | _ | Not Started
+|4.30.2021| Step 3: Models | 0.5              | _  | _ | Not Started
 |4.30.2021| Step 4: Create Global exception handling| 0.5              | _ | _ | Not Started
 |4.30.2021| Step 5: Create HTTP Client | 0.5              | _ | _ | Not Started
 |4.30.2021| Step 2: Security Clearance Domain layer implementation | 2              | _  | _ | Not Started
