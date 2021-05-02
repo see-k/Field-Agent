@@ -63,7 +63,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [X] SecurityClearance
 
       Jdbc Template Repository
-     - [ ] FindAll 
+     - [x] FindAll 
      - [X] FindById
      - [ ] add
      - [ ] Update
