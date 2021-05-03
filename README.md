@@ -92,7 +92,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [X] Aliases
 
       Jdbc Template Repository
-     - [ ] AliasesMapper (Class in Mapper package)
+     - [X] AliasesMapper (Class in Mapper package)
      - [ ] FindById
      - [ ] add
      - [ ] Update
