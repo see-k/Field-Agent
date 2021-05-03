@@ -40,9 +40,9 @@ To launch server
 _______________________________________________________
 #### Code Sequence Steps:
 Along with contents already available in the field Agent Project folder, the following solutions will be implemented as well
-- [ ] Step 1: Set up database
-     - [ ] Update application.properties
-     - [ ] handshake with MySql running on docker container
+- [X] Step 1: Set up database
+     - [X] Update application.properties
+     - [X] handshake with MySql running on docker container
       
 - [ ] Step 2: Security Clearance
 
@@ -147,8 +147,8 @@ ____________________________________________________________________
 |4.30.2021| Step 1: Set up| 0.5              | 6:00 PM | 6:30 PM | Completed
 |4.30.2021| Step 3: Aliases Models | 0.5              | 6:30 PM  | 6:35 PM | Completed
 |4.30.2021| Step 4: Create Global exception handling| 0.5              | _ | _ | Not Started
-|4.30.2021| Step 5: Create HTTP Client | 0.5              | _ | _ | Not Started
-|5.01.2021| Step 2: Security Clearance Domain layer implementation | 2              | 6:00 PM | _ | In progress
+|4.30.2021| Step 5: Create HTTP Client | 0.5              | _ | _ | Completed
+|5.01.2021| Step 2: Security Clearance Domain layer implementation | 2              | 6:00 PM | _ | Completed
 |5.01.2021| Step 2: Security Clearance Domain layer Tests | 1              | _  | _ | Not Started
 |5.01.2021| Step 2: Security Clearance Jdbc template repository implementation | 2             | 4:00 PM | _ | In progress
 |5.01.2021| Step 2: Security Clearance Jdbc template repository tests | 1     | _  | _ | Not Started
