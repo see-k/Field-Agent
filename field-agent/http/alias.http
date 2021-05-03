@@ -1,0 +1,32 @@
+@url = http://localhost:8080/api/alias
+
+### findById
+GET {{url}}/2 HTTP/1.1
+
+### add
+POST {{url}} HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Hellboy",
+    "persona": "Detective",
+    "agentId": 1 
+}
+
+### update
+PUT {{url}}/2 HTTP/1.1
+Content-Type: application/json
+
+{
+    "aliasId": 2,
+    "name": "Omni boy",
+    "persona": "spy kid",
+    "agentId": 2
+}
+
+### delete
+DELETE {{url}}/6 HTTP/1.1
+
+### Global error
+PUT {{url}}/2 HTTP/1.1
+Content-Type: application/json
