@@ -112,7 +112,7 @@ Along with contents already available in the field Agent Project folder, the fol
      - [ ] Illegal arguement exception and response
      - [ ] Nullpointer exception and response
      - [ ] DataAccess exception and response
-- [ ] Step 5: HTTP Client
+- [X] Step 5: HTTP Client
     - Launch spring on terminal
     - Send requests to test added contents in API
  ______________________________________________________________________
