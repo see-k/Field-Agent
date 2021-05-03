@@ -65,8 +65,8 @@ Along with contents already available in the field Agent Project folder, the fol
       Jdbc Template Repository
      - [x] FindAll 
      - [X] FindById
-     - [ ] add
-     - [ ] Update
+     - [X] add
+     - [X] Update
      - [ ] Delete
 
       Jdbc Template layer Tests
