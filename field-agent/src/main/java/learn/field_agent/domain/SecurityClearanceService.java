@@ -5,6 +5,7 @@ import learn.field_agent.models.SecurityClearance;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class SecurityClearanceService {
@@ -29,6 +30,15 @@ public class SecurityClearanceService {
 
         if(Validations.isNullOrBlank(securityClearance.getName())){
             result.addMessage("Name is required", ResultType.INVALID);
+        }
+
+        SecurityClearance securityClearances = findAll().stream()
+                .filter(i->i.getName().equals(securityClearance.getName()))
+                .findFirst()
+                .orElse(null);
+
+        if(securityClearances != null) {
+            result.addMessage("Name already exists", ResultType.INVALID);
         }
 
         return result;

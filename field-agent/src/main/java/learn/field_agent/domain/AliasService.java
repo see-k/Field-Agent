@@ -24,7 +24,17 @@ public class AliasService {
         if(Validations.isNullOrBlank(alias.getName())){
             result.addMessage("Name is required", ResultType.INVALID);
         }
-        
+
+        if(alias.getPersona() == null || alias.getPersona().equals("")) {
+            List<Alias> aliases = findById(alias.getAgentId());
+            for(Alias thisAlias : aliases){
+                if(thisAlias.getName().equals(alias.getName()) ||
+                        thisAlias.getPersona().equals(alias.getPersona())) {
+                    result.addMessage("Persona must be assigned for all duplicate names", ResultType.INVALID);
+                }
+            }
+
+        }
         return result;
     }
 
